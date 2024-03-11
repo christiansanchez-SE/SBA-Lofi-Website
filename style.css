@@ -1206,7 +1206,7 @@
 /* ------------------------------------------------[Tablet Start] */
 @media (max-width: 1080px) {
     body{
-        background-color: peru;
+        background-color: rgb(47, 47, 78);
     }
     .navContainer{
         /* border:solid black; */
@@ -1512,7 +1512,7 @@
 /* ------------------------------------------------[Mobile Start] */
 @media (max-width: 810px) {
     body{
-        background-color: burlywood;
+        background-color: rgb(47, 47, 78);
     }
     .navContainer{
         /* border:solid black; */
@@ -1825,7 +1825,7 @@
 
 @media (max-width: 580px) {
     body{
-        background-color: burlywood;
+        background-color: rgb(47, 47, 78);
     }
     .navContainer{
         /* border:solid black; */
