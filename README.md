@@ -21,3 +21,5 @@ I would ahve added more pages and animations.
 
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
 Take your time and finish each section before moving on.
+
+https://github.com/christiansanchez-SE/SBA-Lofi-Website
